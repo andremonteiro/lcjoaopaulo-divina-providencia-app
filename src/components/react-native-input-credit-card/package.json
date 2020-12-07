@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "react-native-input-credit-card@0.5.5",
+      "D:\\dev_work\\image-slider\\lcjoaopaulo-divina-providencia-app"
+    ]
+  ],
+  "_from": "react-native-input-credit-card@0.5.5",
+  "_id": "react-native-input-credit-card@0.5.5",
+  "_inBundle": false,
+  "_integrity": "sha512-paE9+sTNKsrpVaBlSVylA7LAKGSQ5T97zb/NLxCG9rwalzS50j55yORt5mjQy2d2Mmmry0shJBhPx7sPdjh9Bg==",
+  "_location": "/react-native-input-credit-card",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-input-credit-card@0.5.5",
+    "name": "react-native-input-credit-card",
+    "escapedName": "react-native-input-credit-card",
+    "rawSpec": "0.5.5",
+    "saveSpec": null,
+    "fetchSpec": "0.5.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-input-credit-card/-/react-native-input-credit-card-0.5.5.tgz",
+  "_spec": "0.5.5",
+  "_where": "D:\\dev_work\\image-slider\\lcjoaopaulo-divina-providencia-app",
+  "author": {
+    "name": "yuritoledo"
+  },
+  "bugs": {
+    "url": "https://github.com/yuritoledo/react-native-input-credit-card/issues"
+  },
+  "dependencies": {
+    "card-validator": "^6.2.0",
+    "lodash.compact": "^3.0.1",
+    "lodash.every": "^4.6.0",
+    "lodash.pick": "^4.4.0",
+    "lodash.values": "^4.3.0",
+    "prop-types": "^15.6.0",
+    "react-native-flip-card": "^3.4.1"
+  },
+  "description": "React native credit card input component",
+  "devDependencies": {
+    "babel-eslint": "^5.0.0",
+    "babel-polyfill": "^6.6.1",
+    "babel-preset-react-native": "^1.8.0",
+    "eslint": "^6.3.0",
+    "eslint-plugin-react": "^7.14.3"
+  },
+  "homepage": "https://github.com/yuritoledo/react-native-input-credit-card#readme",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "credit-card",
+    "credit-card input",
+    "skeuomorphic credit-card",
+    "form",
+    "flip",
+    "card",
+    "input",
+    "component",
+    "react-component",
+    "react-native-component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-input-credit-card",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuritoledo/react-native-input-credit-card.git"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.5"
+}
